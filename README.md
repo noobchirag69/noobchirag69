@@ -1,16 +1,34 @@
+![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 # Hi there 👋 I'm Chirag Chakraborty!
+### Budding Computer Science Engineer from Univeristy of Engineering & Management (UEM), Kolkata. 21 years old, with a lot to learn and goals to accomplish.
 
-<!--
-**noobchirag69/noobchirag69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fullstack Developer skilled in MERN stack. Efficient in multiple programming languages including C, Python and JavaScript. I am also proficient in Data Structures and Algorithms. My Database knowledge includes MySQL, MariaDB and MongoDB. I'm fluent in English and have great communication and managment skills. Currently working on upskilling myself!
+
+<br>
+
+<table style="border: none">
+  <tr >
+  <td width="42%">
+
+## My Works
+
+|      💼 Designation       |                             🏢 Organization                              |      ⏰ Timeline      |
+| :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
+|   Web Development Intern  |                      [@IEMA](https://iemlabs.com)                       | June 2022 - Present |
+|   Technical Instructor   |                      [@IEMA](https://iemlabs.com)                       | June 2022 - Present |
+    
+
+- 👯 Looking forward to collaborating on frontend and fullstack web projects.
+
+  </td>
+  
+  <td width="58%" valign="top">
+  </td>
+  </tr>
+</table>
+
+<br />
