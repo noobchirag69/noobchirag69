@@ -2,8 +2,6 @@
 # Hi there 👋 I'm Chirag Chakraborty!
 ### Budding Computer Science Engineer from Univeristy of Engineering & Management (UEM), Kolkata. 21 years old, with a lot to learn and goals to accomplish.
 
-<br>
-
 ## Bio
 
 Fullstack Developer skilled in MERN stack. Efficient in multiple programming languages including C, Python and JavaScript. I am also proficient in Data Structures and Algorithms. My Database knowledge includes MySQL, MariaDB and MongoDB. I'm fluent in English and have great communication and managment skills. Currently working on upskilling myself!
@@ -14,7 +12,7 @@ Fullstack Developer skilled in MERN stack. Efficient in multiple programming lan
   <tr >
   <td width="42%">
 
-## My Works
+## Work Experience
 
 |      💼 Designation       |                             🏢 Organization                              |      ⏰ Timeline      |
 | :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
@@ -24,9 +22,6 @@ Fullstack Developer skilled in MERN stack. Efficient in multiple programming lan
 
 - 👯 Looking forward to collaborating on frontend and fullstack web projects.
 
-  </td>
-  
-  <td width="58%" valign="top">
   </td>
   </tr>
 </table>
