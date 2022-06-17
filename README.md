@@ -8,22 +8,24 @@ Fullstack Developer skilled in MERN stack. Efficient in multiple programming lan
 
 <br>
 
-<table style="border: none; width: 100%;">
-  <tr >
-  <td>
-
-## Work Experience
-
-|      💼 Designation       |                             🏢 Organization                              |      ⏰ Timeline      |
-| :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
-|   Web Development Intern  |                      [@IEMA](https://iemlabs.com)                       | June 2022 - Present |
-|   Technical Instructor   |                      [@IEMA](https://iemlabs.com)                       | June 2022 - Present |
-    
-
-- 👯 Looking forward to collaborating on frontend and fullstack web projects.
-
-  </td>
+<table style="width: 100%; border: none;">
+  <h2> Work Experience </h2>
+  <tr>
+    <th> 💼 Designation </th>
+    <th> 🏢 Organization </th>
+    <th> ⏰ Timeline </th>
   </tr>
+  <tr>
+    <td> Web Development Intern </td>
+    <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
+    <td> June 2022 - Present </td>
+  </tr>
+  <tr>
+    <td> Technical Instructor </td>
+    <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
+    <td> June 2022 - Present </td>
+  </tr>
+  <td>
 </table>
 
 <br />
