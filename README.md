@@ -4,7 +4,7 @@
 
 ## Bio
 
-Fullstack Developer skilled in MERN stack. Efficient in multiple programming languages including C, Python and JavaScript. I am also proficient in Data Structures and Algorithms. My Database knowledge includes MySQL, MariaDB and MongoDB. I'm fluent in English and have great communication and managment skills. Currently working on upskilling myself!
+Web Developer skilled in MERN stack. Efficient in multiple programming languages including C, Python and JavaScript. I am also proficient in Data Structures and Algorithms. My Database knowledge includes MySQL, MariaDB and MongoDB. I'm fluent in English and have great communication and managment skills. Currently working on upskilling myself!
 
 <table style="width: 100%; border: none;">
   <h2> Work Experience </h2>
@@ -14,7 +14,7 @@ Fullstack Developer skilled in MERN stack. Efficient in multiple programming lan
     <th> ⏰ Timeline </th>
   </tr>
   <tr>
-    <td> Web Development Intern </td>
+    <td> Fullstack Development Intern </td>
     <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
     <td> June 2022 - Present </td>
   </tr>
