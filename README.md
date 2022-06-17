@@ -10,7 +10,7 @@ Fullstack Developer skilled in MERN stack. Efficient in multiple programming lan
 
 <table style="border: none">
   <tr >
-  <td width="42%">
+  <td width="100%">
 
 ## Work Experience
 
