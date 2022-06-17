@@ -24,3 +24,15 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
     <td> June 2022 - Present </td>
   </tr>
 </table>
+
+## Technical Skills
+
+### Languages:
+
+<div>
+    <img src="img/lang/python.png" style="margin: 5px;">
+    <img src="img/lang/c.png" style="margin: 5px;">
+    <img src="img/lang/javascript.png" style="margin: 5px;">
+    <img src="img/lang/html.png" style="margin: 5px;">
+    <img src="img/lang/css3.png" style="margin: 5px;">
+</div>
