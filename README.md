@@ -8,17 +8,17 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
 
 <table style="width: 100%; border: none;">
   <h2> Work Experience </h2>
-  <tr style="text-align: center;">
+  <tr>
     <th> 💼 Designation </th>
     <th> 🏢 Organization </th>
     <th> ⏰ Timeline </th>
   </tr>
-  <tr style="text-align: center;">
+  <tr>
     <td> Fullstack Development Intern </td>
     <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
     <td> June 2022 - Present </td>
   </tr>
-  <tr style="text-align: center;">
+  <tr>
     <td> Technical Instructor </td>
     <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
     <td> June 2022 - Present </td>
@@ -30,9 +30,58 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
 ### Languages:
 
 <div>
-    <img src="img/lang/python.png" style="margin: 5px;">
-    <img src="img/lang/c.png" style="margin: 5px;">
-    <img src="img/lang/javascript.png" style="margin: 5px;">
-    <img src="img/lang/html.png" style="margin: 5px;">
-    <img src="img/lang/css3.png" style="margin: 5px;">
+    <img src="img/python.png" style="margin: 5px;">
+    <img src="img/javascript.png" style="margin: 5px;">
+    <img src="img/c.png" style="margin: 5px;">
+    <img src="img/sql.png" style="margin: 5px;">
+</div>
+
+### Frontend Development:
+
+<div>
+    <img src="img/html.png" style="margin: 5px;">
+    <img src="img/css3.png" style="margin: 5px;">
+    <img src="img/bootstrap.png" style="margin: 5px">
+    <img src="img/tailwind.png" style="margin: 5px">
+    <img src="img/jquery.png" style="margin: 5px">
+    <img src="img/react.png" style="margin: 5px">
+    <img src="img/redux.png" style="margin: 5px">
+    <img src="img/angularjs.png" style="margin: 5px">
+    <img src="img/vue.png" style="margin: 5px"> 
+</div>
+
+### Backend Development:
+
+<div>
+    <img src="img/php.png" style="margin: 5px;">
+    <img src="img/nodejs.png" style="margin: 5px;">
+    <img src="img/apache.png" style="margin: 5px">
+    <img src="img/django.png" style="margin: 5px">
+    <img src="img/flask.png" style="margin: 5px">
+    <img src="img/firebase.png" style="margin: 5px">
+</div>
+
+### Database Management:
+
+<div>
+    <img src="img/mysql.png" style="margin: 5px;">
+    <img src="img/mariadb.png" style="margin: 5px;">
+    <img src="img/mongodb.png" style="margin: 5px">
+</div>
+
+### Operating System:
+
+<div>
+    <img src="img/windows.png" style="margin: 5px;">
+    <img src="img/linux.png" style="margin: 5px;">
+</div>
+
+### Others:
+
+<div>
+    <img src="img/git.png" style="margin: 5px;">
+    <img src="img/github.png" style="margin: 5px;">
+    <img src="img/office.png" style="margin: 5px;">
+    <img src="img/vscode.png" style="margin: 5px;">
+    <img src="img/canva.png" style="margin: 5px;">
 </div>
