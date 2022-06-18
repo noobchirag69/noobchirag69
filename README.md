@@ -8,17 +8,17 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
 
 <table style="width: 100%; border: none;">
   <h2> Work Experience </h2>
-  <tr>
+  <tr style="text-align: center;">
     <th> 💼 Designation </th>
     <th> 🏢 Organization </th>
     <th> ⏰ Timeline </th>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td> Fullstack Development Intern </td>
     <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
     <td> June 2022 - Present </td>
   </tr>
-  <tr>
+  <tr style="text-align: center;">
     <td> Technical Instructor </td>
     <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
     <td> June 2022 - Present </td>
