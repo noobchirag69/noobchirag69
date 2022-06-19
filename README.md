@@ -30,58 +30,58 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
 ### Languages:
 
 <div>
-    <img src="img/python.png" style="margin: 5px;">
-    <img src="img/javascript.png" style="margin: 5px;">
-    <img src="img/c.png" style="margin: 5px;">
-    <img src="img/sql.png" style="margin: 5px;">
+    <img src="img/python.png" style="margin: 10px;">
+    <img src="img/javascript.png" style="margin: 10px;">
+    <img src="img/c.png" style="margin: 10px;">
+    <img src="img/sql.png" style="margin: 10px;">
 </div>
 
 ### Frontend Development:
 
 <div>
-    <img src="img/html.png" style="margin: 5px;">
-    <img src="img/css3.png" style="margin: 5px;">
-    <img src="img/bootstrap.png" style="margin: 5px">
-    <img src="img/tailwind.png" style="margin: 5px">
-    <img src="img/jquery.png" style="margin: 5px">
-    <img src="img/react.png" style="margin: 5px">
-    <img src="img/redux.png" style="margin: 5px">
-    <img src="img/angularjs.png" style="margin: 5px">
-    <img src="img/vue.png" style="margin: 5px"> 
+    <img src="img/html.png" style="margin: 10px;">
+    <img src="img/css3.png" style="margin: 10px;">
+    <img src="img/bootstrap.png" style="margin: 10px">
+    <img src="img/tailwind.png" style="margin: 10px">
+    <img src="img/jquery.png" style="margin: 10px">
+    <img src="img/react.png" style="margin: 10px">
+    <img src="img/redux.png" style="margin: 10px">
+    <img src="img/angularjs.png" style="margin: 10px">
+    <img src="img/vue.png" style="margin: 10px"> 
 </div>
 
 ### Backend Development:
 
 <div>
-    <img src="img/php.png" style="margin: 5px;">
-    <img src="img/nodejs.png" style="margin: 5px;">
-    <img src="img/apache.png" style="margin: 5px">
-    <img src="img/django.png" style="margin: 5px">
-    <img src="img/flask.png" style="margin: 5px">
-    <img src="img/firebase.png" style="margin: 5px">
+    <img src="img/php.png" style="margin: 10px;">
+    <img src="img/nodejs.png" style="margin: 10px;">
+    <img src="img/apache.png" style="margin: 10px">
+    <img src="img/django.png" style="margin: 10px">
+    <img src="img/flask.png" style="margin: 10px">
+    <img src="img/firebase.png" style="margin: 10px">
 </div>
 
 ### Database Management:
 
 <div>
-    <img src="img/mysql.png" style="margin: 5px;">
-    <img src="img/mariadb.png" style="margin: 5px;">
-    <img src="img/mongodb.png" style="margin: 5px">
+    <img src="img/mysql.png" style="margin: 10px;">
+    <img src="img/mariadb.png" style="margin: 10px;">
+    <img src="img/mongodb.png" style="margin: 10px">
 </div>
 
 ### Operating System:
 
 <div>
-    <img src="img/windows.png" style="margin: 5px;">
-    <img src="img/linux.png" style="margin: 5px;">
+    <img src="img/windows.png" style="margin: 10px;">
+    <img src="img/linux.png" style="margin: 10px;">
 </div>
 
 ### Others:
 
 <div>
-    <img src="img/git.png" style="margin: 5px;">
-    <img src="img/github.png" style="margin: 5px;">
-    <img src="img/office.png" style="margin: 5px;">
-    <img src="img/vscode.png" style="margin: 5px;">
-    <img src="img/canva.png" style="margin: 5px;">
+    <img src="img/git.png" style="margin: 10px;">
+    <img src="img/github.png" style="margin: 10px;">
+    <img src="img/office.png" style="margin: 10px;">
+    <img src="img/vscode.png" style="margin: 10px;">
+    <img src="img/canva.png" style="margin: 10px;">
 </div>
