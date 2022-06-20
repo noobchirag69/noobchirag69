@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# Hi there 👋 I'm Chirag Chakraborty!
+# Hi there 👋 I'm Chirag Chakraborty
 ### Budding Computer Science Engineer from Univeristy of Engineering & Management (UEM), Kolkata. 21 years old, with a lot to learn and goals to accomplish.
 
 ## Bio
@@ -91,4 +91,23 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
 ## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noobchirag69&theme=monokai&margin-w=15&no-bg=true&rank=-B,-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Profile Statistics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/?username=noobchirag69&count_private=true&theme=merko&show_icons=true&hide=prs">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobchirag69&layout=compact&theme=merko">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobchirag69&theme=merko">
+    </td>
+  </tr>
+</table>
+
 
