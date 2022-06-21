@@ -6,7 +6,7 @@
 
 Web Developer skilled in MERN stack. Efficient in multiple programming languages including C, Python and JavaScript. I am also proficient in Data Structures and Algorithms. My Database knowledge includes MySQL, MariaDB and MongoDB. I'm fluent in English and have great communication and managment skills. Currently working on upskilling myself!
 
-<p align="left"> <a href="https://twitter.com/ChiragRR7" target="blank"><img src="https://img.shields.io/twitter/follow/ChiragRR7?logo=twitter&style=for-the-badge" alt="ChiragRR7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ChiragRR7" target="_blank"><img src="https://img.shields.io/twitter/follow/ChiragRR7?logo=twitter&style=for-the-badge" alt="ChiragRR7" /></a> </p>
 
 <table style="width: 100%; border: none;">
   <h2> Work Experience </h2>
