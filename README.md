@@ -32,60 +32,60 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
 ### Languages:
 
 <div>
-    <img src="img/python.png" style="margin: 5px;">
-    <img src="img/javascript.png" style="margin: 5px;">
-    <img src="img/c.png" style="margin: 5px;">
-    <img src="img/sql.png" style="margin: 5px;">
+    <img src="img/python.png">&nbsp;&nbsp;
+    <img src="img/javascript.png">&nbsp;&nbsp;
+    <img src="img/c.png">&nbsp;&nbsp;
+    <img src="img/sql.png">&nbsp;&nbsp;
 </div>
 
 ### Frontend Development:
 
 <div>
-    <img src="img/html.png" style="margin: 5px;">
-    <img src="img/css3.png" style="margin: 5px;">
-    <img src="img/bootstrap.png" style="margin: 5px">
-    <img src="img/tailwind.png" style="margin: 5px">
-    <img src="img/jquery.png" style="margin: 5px">
-    <img src="img/react.png" style="margin: 5px">
-    <img src="img/redux.png" style="margin: 5px">
-    <img src="img/angularjs.png" style="margin: 5px">
-    <img src="img/vue.png" style="margin: 5px"> 
+    <img src="img/html.png">&nbsp;&nbsp;
+    <img src="img/css3.png">&nbsp;&nbsp;
+    <img src="img/bootstrap.png">&nbsp;&nbsp;
+    <img src="img/tailwind.png">&nbsp;&nbsp;
+    <img src="img/jquery.png">&nbsp;&nbsp;
+    <img src="img/react.png">&nbsp;&nbsp;
+    <img src="img/redux.png">&nbsp;&nbsp;
+    <img src="img/angularjs.png">&nbsp;&nbsp;
+    <img src="img/vue.png">&nbsp;&nbsp;
 </div>
 
 ### Backend Development:
 
 <div>
-    <img src="img/php.png" style="margin: 5px;">
-    <img src="img/nodejs.png" style="margin: 5px;">
-    <img src="img/apache.png" style="margin: 5px">
-    <img src="img/django.png" style="margin: 5px">
-    <img src="img/flask.png" style="margin: 5px">
-    <img src="img/firebase.png" style="margin: 5px">
+    <img src="img/php.png">&nbsp;&nbsp;
+    <img src="img/nodejs.png">&nbsp;&nbsp;
+    <img src="img/apache.png">&nbsp;&nbsp;
+    <img src="img/django.png">&nbsp;&nbsp;
+    <img src="img/flask.png">&nbsp;&nbsp;
+    <img src="img/firebase.png">&nbsp;&nbsp;
 </div>
 
 ### Database Management:
 
 <div>
-    <img src="img/mysql.png" style="margin: 5px;">
-    <img src="img/mariadb.png" style="margin: 5px;">
-    <img src="img/mongodb.png" style="margin: 5px">
+    <img src="img/mysql.png">&nbsp;&nbsp;
+    <img src="img/mariadb.png">&nbsp;&nbsp;
+    <img src="img/mongodb.png">&nbsp;&nbsp;
 </div>
 
 ### Operating Systems:
 
 <div>
-    <img src="img/windows.png" style="margin: 5px;">
-    <img src="img/linux.png" style="margin: 5px;">
+    <img src="img/windows.png">&nbsp;&nbsp;
+    <img src="img/linux.png">&nbsp;&nbsp;
 </div>
 
 ### Others:
 
 <div>
-    <img src="img/git.png" style="margin: 5px;">
-    <img src="img/github.png" style="margin: 5px;">
-    <img src="img/office.png" style="margin: 5px;">
-    <img src="img/vscode.png" style="margin: 5px;">
-    <img src="img/canva.png" style="margin: 5px;">
+    <img src="img/git.png">&nbsp;&nbsp;
+    <img src="img/github.png">&nbsp;&nbsp;
+    <img src="img/office.png">&nbsp;&nbsp;
+    <img src="img/vscode.png">&nbsp;&nbsp;
+    <img src="img/canva.png">&nbsp;&nbsp;
 </div>
 
 <br>
@@ -115,8 +115,8 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
 ## Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/chirag-chakraborty/"><img src="img/linkedin.png" style="margin: 5px;"></a>
-<a href="mailto:chiragchakraborty48@gmail.com"><img src="img/gmail.png" style="margin: 5px;"></a>
-<a href="https://www.facebook.com/chirag2k/"><img src="img/facebook.png" style="margin: 5px;">
-<a href="https://www.instagram.com/chivalrous_chirag/"><img src="img/instagram.png" style="margin: 5px;"></a>
+<a href="https://www.linkedin.com/in/chirag-chakraborty/"><img src="img/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:chiragchakraborty48@gmail.com"><img src="img/gmail.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/chirag2k/"><img src="img/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/chivalrous_chirag/"><img src="img/instagram.png"></a>&nbsp;&nbsp;
 </p>
