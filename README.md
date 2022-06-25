@@ -112,4 +112,11 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
   </tr>
 </table>
 
+## Connect With Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/chirag-chakraborty/"><img src="img/linkedin.png" style="margin: 5px;"></a>
+<a href="mailto:chiragchakraborty48@gmail.com"><img src="img/gmail.png" style="margin: 5px;"></a>
+<a href="https://www.facebook.com/chirag2k/"><img src="img/facebook.png" style="margin: 5px;">
+<a href="https://www.instagram.com/chivalrous_chirag/"><img src="img/instagram.png" style="margin: 5px;"></a>
+</p>
