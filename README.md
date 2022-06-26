@@ -36,6 +36,7 @@ Web Developer skilled in MERN stack. Efficient in multiple programming languages
     <img src="img/javascript.png">&nbsp;&nbsp;
     <img src="img/c.png">&nbsp;&nbsp;
     <img src="img/sql.png">&nbsp;&nbsp;
+    <img src="img/cpp.png">&nbsp;&nbsp;
 </div>
 
 ### Frontend Development:
