@@ -4,7 +4,7 @@
 
 ## Bio
 
-Web Developer skilled in MERN stack. Efficient in multiple programming languages including C, Python and JavaScript. I am also proficient in Data Structures and Algorithms. My Database knowledge includes MySQL, MariaDB and MongoDB. I'm fluent in English and have great communication and managment skills. Currently working on upskilling myself!
+Fullstack Developer skilled in MERN and MEAN stack. Efficient in multiple programming languages including C, C++, Python and JavaScript. Also proficient in Data Structures and Algorithms. Database knowledge includes MySQL, MariaDB and MongoDB. Fluent in English and have great communication and management skills. Currently working on upskilling myself!
 
 <p align="left"> <a href="https://twitter.com/ChiragRR7" target="_blank"><img src="https://img.shields.io/twitter/follow/ChiragRR7?logo=twitter&style=for-the-badge" alt="ChiragRR7" /></a> </p>
 
