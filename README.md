@@ -100,10 +100,10 @@ Fullstack Developer skilled in MERN and MEAN stack. Efficient in multiple progra
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/?username=noobchirag69&count_private=true&theme=merko&show_icons=true&hide=prs">
+      <img src="https://github-readme-stats.vercel.app/api/?username=noobchirag69&count_private=true&theme=merko&show_icons=true">
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobchirag69&theme=merko&langs_count=10&layout=compact">
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobchirag69&theme=merko&langs_count=10">
     </td>
   </tr>
   <tr>
