@@ -1,10 +1,10 @@
 ![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 # Hi there 👋 I'm Chirag Chakraborty
-### Budding Computer Science Engineer from Univeristy of Engineering & Management (UEM), Kolkata. 21 years old, with a lot to learn and goals to accomplish.
+### Budding Computer Science Engineer from Univeristy of Engineering & Management (UEM), Kolkata. 22 years old, with a lot to learn and goals to accomplish.
 
 ## Bio
 
-Fullstack Developer skilled in MERN and MEAN stack. Efficient in multiple programming languages including C, C++, Python and JavaScript. Also proficient in Data Structures and Algorithms. Database knowledge includes MySQL, MariaDB and MongoDB. Fluent in English and have great communication and management skills. Currently working on upskilling myself!
+Fullstack Developer skilled in MERN and MEAN stack. Efficient in multiple programming languages including C, Python, JavaScript and TypeScript. Database knowledge includes MySQL, MariaDB and MongoDB. Fluent in English and have great communication and management skills. Currently working on upskilling myself. Looking for collaboration on open-source projects!
 
 <p align="left"> <a href="https://twitter.com/ChiragRR7" target="_blank"><img src="https://img.shields.io/twitter/follow/ChiragRR7?logo=twitter&style=for-the-badge" alt="ChiragRR7" /></a> </p>
 
