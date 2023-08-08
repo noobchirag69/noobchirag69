@@ -16,13 +16,13 @@ Fullstack Developer skilled in MERN and MEAN stack. Efficient in multiple progra
     <th> ⏰ Timeline </th>
   </tr>
   <tr>
-    <td> Fullstack Development Intern </td>
-    <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
+    <td> Full Stack Developer </td>
+    <td> IEMA Research & Development Pvt. Ltd. </td>
     <td> June 2022 - Present </td>
   </tr>
   <tr>
     <td> Technical Instructor </td>
-    <td> IEMA Research & Development Pvt. Ltd. - IEMLabs </td>
+    <td> IEMA Research & Development Pvt. Ltd. </td>
     <td> June 2022 - Present </td>
   </tr>
 </table>
