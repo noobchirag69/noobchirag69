@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 # Hi there 👋 I'm Chirag Chakraborty
-### Budding Computer Science Engineer from Univeristy of Engineering & Management (UEM), Kolkata. 22 years old, with a lot to learn and goals to accomplish.
+### Computer Science Engineer from Kolkata, India. 22 years old, with a lot to learn and goals to accomplish.
 
 ## Bio
 
